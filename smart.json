@@ -1,0 +1,9 @@
+{
+	"name": "twitter-text",
+	"description": "Package for adding entities to twitter text",
+	"homepage": "https://github.com/bojan88/meteor-twitter-text",
+	"author": "bojan88 - bojan88@gmail.com",
+	"version": "0.0.1",
+	"git": "https://github.com/bojan88/meteor-twitter-text.git",
+	"packages": {}
+}
